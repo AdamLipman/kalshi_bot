@@ -1,2 +1,0 @@
-# kalshi_bot
-Trading
